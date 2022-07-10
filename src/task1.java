@@ -4,7 +4,7 @@ import java.util.function.Function;
 
 import static java.lang.Math.*;
 
-public class Main {
+public class task1 {
     public static void main(String[] args) {
         System.out.println(task1(1, 2, 3));
         System.out.println(task2(3, 4, 5));
